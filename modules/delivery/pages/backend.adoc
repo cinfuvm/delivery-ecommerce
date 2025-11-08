@@ -1,0 +1,6 @@
+= Justificación Tecnológica Backend
+
+Se selecciona Go por su facilidad en APIs REST, concurrencia y eficiencia de recursos. Comparativa vs Elixir y Kotlin:
+- Go: Simple, eficiente, buena integración con SQLite, bajo consumo.
+- Elixir: Robustez y escalabilidad alta, recomendado si la carga lo requiere.
+- Kotlin: Moderno, integración fácil con HTMX y APIs REST.

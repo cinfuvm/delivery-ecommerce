@@ -1,0 +1,9 @@
+= Proyecto Ecommerce: Gestión del Delivery
+
+Este documento describe la planificación y diseño de una tienda de comida al paso (Delivery), incluyendo los elementos técnicos y organizativos requeridos.
+- Nivel de presupuesto: Bajo
+- Estimación de transacciones diarias: 10 (máximo: 100)
+- Referencia: Tienda de Comida Al Paso
+- Endpoint a implementar: Gestión del Delivery
+
+Equipo: Jeremías Carrasco/Navarro

@@ -1,0 +1,17 @@
+= Diseño de Endpoint REST
+
+El endpoint principal es `/api/delivery`.
+
+[source,json]
+----
+POST /api/delivery
+{
+  "user_id": 1,
+  "products": ["hamburguesa", "papas"],
+  "address": "Av. Ejemplo 123"
+}
+----
+
+GET /api/delivery/{order_id}
+
+Responde con estado y detalles del pedido.

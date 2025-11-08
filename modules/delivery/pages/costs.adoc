@@ -1,0 +1,5 @@
+= Estimación de Costos
+
+- Servidor: VPS básico Debian 13 Linux, 5 USD/mes.
+- Dominio: 10 USD/año.
+- Operación: Monitoreo mínimo, coste bajo por baja carga transaccional (hasta 100 diarias).

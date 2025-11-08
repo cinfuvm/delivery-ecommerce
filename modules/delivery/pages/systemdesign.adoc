@@ -1,0 +1,8 @@
+= Diseño de Sistemas (Caso de Uso)
+
+image::c4-diagram.png[]
+
+El sistema implementa registro/login de usuarios, creación y seguimiento de pedidos. El flujo principal:
+1. Usuario crea pedido.
+2. Sistema lo almacena en delivery_orders.
+3. Backend gestiona los cambios de estado ("pendiente", "en camino", "entregado").

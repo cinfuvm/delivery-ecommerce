@@ -1,0 +1,10 @@
+.Delivery Documentation
+* xref:delivery.adoc[]
+* xref:dbdesign.adoc[]
+* xref:restendpoint.adoc[]
+* xref:costs.adoc[]
+* xref:backend.adoc[]
+* xref:frontend.adoc[]
+* xref:team.adoc[]
+* xref:schedule.adoc[]
+* xref:systemdesign.adoc[]

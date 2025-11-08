@@ -1,0 +1,42 @@
+= Documentación Proyecto Delivery Ecommerce
+:navtitle: Inicio
+
+Bienvenido a la documentación del sistema **Delivery Ecommerce**, desarrollado para optimizar el proceso de gestión y entrega de pedidos de comida rápida con tecnologías modernas y eficientes.
+
+[cols="1,3",options="header"]
+|===
+| Característica              | Detalle
+| Presupuesto                 | Bajo
+| Transacciones estimadas/día | 10 (máximo 100)
+| Tecnología Backend          | Go / Elixir / Kotlin
+| Tecnología Frontend         | HTMX / React
+| Base de Datos               | SQLite
+| Caso de Uso Principal       | Tienda de Delivery (Al Paso)
+|===
+
+[NOTE]
+Este proyecto provee una plataforma ágil, segura y económica para pequeños comercios del rubro gastronómico, permitiéndoles administrar el flujo completo de pedidos, usuarios y entregas.
+
+image::delivery-banner.png[Banner proyecto,align=center]
+
+== Arquitectura del sistema
+
+A continuación se muestra el diagrama arquitectónico principal (C4):
+
+image::c4-diagram.png[Diagrama C4 de Delivery,align=center]
+
+El flujo principal de la aplicación es:
+- El usuario realiza un pedido desde el frontend.
+- El backend gestiona y almacena el pedido y usuario en la base de datos.
+- El estado del pedido se actualiza y se refleja en la interfaz web para el cliente y el personal del comercio.
+
+== ¿Cómo funciona?
+
+. Registro y autenticación de usuarios.
+. Creación y edición de pedidos.
+. Monitoreo en tiempo real del estado de entrega.
+. Reportes de actividad descargables.
+. Interfaz diseñada para trabajar desde cualquier dispositivo y optimizada para cocina y administración.
+
+---
+

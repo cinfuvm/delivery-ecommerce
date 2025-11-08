@@ -1,0 +1,6 @@
+= Selección de Profesionales
+
+- 1 Backend Developer (Go)
+- 1 Frontend Developer (HTMX)
+- 1 DBA (SQLite)
+- 1 Project Manager (opcional)

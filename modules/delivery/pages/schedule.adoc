@@ -1,0 +1,9 @@
+= Estimación de Plazos
+
+- Kickoff y análisis inicial: 2 días
+- Desarrollo y pruebas backend: 5 días
+- Desarrollo y pruebas frontend: 5 días
+- Integración y ajustes: 3 días
+- Despliegue: 2 días
+
+Total: 17 días estimados.

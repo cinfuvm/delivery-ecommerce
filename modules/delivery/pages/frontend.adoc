@@ -1,0 +1,3 @@
+= Justificación Tecnológica Frontend
+
+HTMX se utiliza por simplicidad y bajo costo. Alternativa: React (más complejo y costoso para bajo presupuesto).
